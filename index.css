@@ -1,4 +1,4 @@
-<style>
+
     .item1 {
       grid-area: header;
     }
@@ -29,4 +29,3 @@
       padding: 20px 0;
       font-size: 30px;
     }
-  </style>
